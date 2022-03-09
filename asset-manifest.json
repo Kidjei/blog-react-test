@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-react-test/static/css/main.efd2b344.css",
+    "main.js": "/blog-react-test/static/js/main.edf2ec33.js",
+    "index.html": "/blog-react-test/index.html",
+    "main.efd2b344.css.map": "/blog-react-test/static/css/main.efd2b344.css.map",
+    "main.edf2ec33.js.map": "/blog-react-test/static/js/main.edf2ec33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efd2b344.css",
+    "static/js/main.edf2ec33.js"
+  ]
+}
